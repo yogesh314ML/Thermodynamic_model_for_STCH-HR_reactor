@@ -6,3 +6,4 @@
 
 3\. Use the obtained values to calculate the heat-to-hydrogen conversion efficiency as discussed in Equation 12 of the main manuscript.
 
+DOI:10.5281/zenodo.21381730
